@@ -1,1 +1,1 @@
-# TodoList with Dependency injection using uber-go/fx
+# Dependency injection using uber-go/fx
